@@ -72,15 +72,15 @@
 
     .prediction-number {
       color: #bdbdbd;
-      font-size: 14px;
+      font-size: 20px;
       text-align: center;
     }
 
     .top-prediction .prediction-bar {
-      background: #00f0ff;
+      background: #1b74e4 ;
     }
 
     .top-prediction .prediction-number {
-      color: #00f0ff;
+      color: #1b74e4 ;
       font-weight: bold;
     }
